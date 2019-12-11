@@ -1,6 +1,0 @@
-com/imooc/spark/kafka/KafkaProducerApp.class
-com/imooc/spark/project/utils/HBaseUtils.class
-com/imooc/spark/kafka/KafkaConsumer.class
-com/imooc/spark/kafka/KafkaProperties.class
-com/imooc/spark/kafka/KafkaProducer.class
-com/imooc/spark/kafka/KafkaClientApp.class
